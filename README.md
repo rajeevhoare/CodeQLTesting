@@ -1,0 +1,2 @@
+# CodeQLTesting
+Testing out CodeQL
